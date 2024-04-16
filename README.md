@@ -9,12 +9,12 @@
 
 <p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
 
-[[params.social]]
+[![params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/baker-sekitoleko-b52257192"
 
- [[params.social]]
+ [![params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/Qadriyah"

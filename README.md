@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## <p align="center">Hi, I'm Baker Sekitoleko</p>
-<p align="center">A Full-Stack software engineer with a strong focus on the frontend, who is passionately working React, Next, Node and Nest related projects</p>
+<p align="center">A Full-Stack software engineer with a strong focus on the frontend, who is passionately working on React, Next, Node and Nest related projects</p>
 
 <p align="center">Let's create magic together in the Javascript ecospace</p>
 
@@ -9,7 +9,7 @@
 
 <p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
 
-
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 <!--
 **Qadriyah/Qadriyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

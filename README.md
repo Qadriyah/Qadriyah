@@ -9,7 +9,7 @@
 
 <p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![LinkedIn](https://www.linkedin.com/in/baker-sekitoleko-b52257192)
 
 <!--
 **Qadriyah/Qadriyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

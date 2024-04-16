@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I'm Baker Sekitoleko
+## <p align="center">Hi, I'm Baker Sekitoleko</p>
 
 
 <!--

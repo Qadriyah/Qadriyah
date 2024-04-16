@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## <p align="center">Hi, I'm Baker Sekitoleko</p>
+A Full-Stack software engineer with a strong focus on the frontend
 
 
 <!--

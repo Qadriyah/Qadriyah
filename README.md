@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 ## <p align="center">Hi, I'm Baker Sekitoleko</p>
-A Full-Stack software engineer with a strong focus on the frontend
+<p align="center">A Full-Stack software engineer with a strong focus on the frontend, who is passionately working React, Next, Node and Nest related projects</p>
+
+<p align="center">Let's create magic together in the Javascript ecospace</p>
+
+<p align="center">I'm up for hire for fulltime, contract or freelancing jobs</p>
+
+<p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
+
 
 
 <!--

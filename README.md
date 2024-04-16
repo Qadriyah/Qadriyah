@@ -10,8 +10,8 @@
 <p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/alejolg/">
-    <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/alejolg-blue.svg?logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/baker-sekitoleko-b52257192">
+    <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin"/>
   </a>
 </p>
 

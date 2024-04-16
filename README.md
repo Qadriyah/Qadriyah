@@ -9,15 +9,7 @@
 
 <p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
 
-[![params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/baker-sekitoleko-b52257192"
-
- [![params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/Qadriyah"
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Baker%20Sekitoleko/Software%20Engineer/Software%20Engineer/Bachelor's%20Degree/light/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F27720010%3Fv%3D4))](https://www.linkedin.com/in/baker-sekitoleko-b52257192/)
 
 <!--
 **Qadriyah/Qadriyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

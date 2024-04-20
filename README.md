@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/baker-sekitoleko-b52257192">
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin"/>
   </a>
-  <a href="https://www.linkedin.com/in/baker-sekitoleko-b52257192">
+  <a href="https://www.bakersekitoleko.com">
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Site-brightgreen"/>
   </a>
 </p>

@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## <p align="center">Hi, I'm Baker Sekitoleko</p>
-<p align="center">A Full-Stack software engineer with a strong focus on the frontend, who is passionately working on React, Next, Node and Nest related projects</p>
+<p align="center">
+  I’m a Full-Stack software engineer with a strong focus on the frontend. Recently, I have been passionately working on React, Next, Node and Nest related projects. I am also passionate about user experience and constantly strive to create intuitive and engaging applications. My goal is to continue to develop my skills and work on projects that make a positive impact on the society
+</p>
 
 <p align="center">Let's create magic together in the Javascript ecospace</p>
 

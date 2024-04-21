@@ -12,10 +12,10 @@
 <p align="center">You can reach me by email at b.alzawad 'at' gmail 'dot' com</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/baker-sekitoleko-b52257192">
+  <a href="https://www.linkedin.com/in/baker-sekitoleko-b52257192" target="_blank">
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin"/>
   </a>
-  <a href="https://www.bakersekitoleko.com">
+  <a href="https://www.bakersekitoleko.com" target="_blank">
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Site-brightgreen"/>
   </a>
 </p>
